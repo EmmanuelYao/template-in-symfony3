@@ -1,30 +1,21 @@
 Requirements
 
-    PHP >= 7.0
-    MySQL >= 5.6
+    PHP >= 5.6+
+    MySQL >= 5.6+
     Composer (you can install from getcomposer.org)
 
 General installation steps
 
 First, clone this project:
 
-git clone git@github.com:Tanibox/tania.git
-cd tania
 
+git clone https://github.com/EmmanuelYao/template-in-symfony3.git
 
+cd template-in-symfony3
 
+2...
 
-
-
-
-
-
-
-
-
-
-
-
+composer update
 
 Symfony Standard Edition
 ========================
